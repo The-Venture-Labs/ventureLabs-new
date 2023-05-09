@@ -65,8 +65,8 @@ export default function Navbar() {
                 </div>
 
                 <div>
-                  <div class=" rounded border-b-2 border-grey-dark overflow-hidden mx-8 hidden sm:block">
-                    <button class="block text-white text-sm shadow-border bg-btnColor py-2 px-4 font-sans tracking-wide uppercase font-bold  hover:bg-green-600 transform transition duration-300 hover:scale-110">
+                  <div class=" rounded overflow-hidden mx-8 hidden sm:block">
+                    <button class="block text-white text-sm shadow-border bg-[#071145] py-2 px-4 font-sans tracking-wide uppercase font-bold">
                       Schedule a Call
                     </button>
                   </div>
