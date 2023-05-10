@@ -11,8 +11,8 @@ import Linkedin from "../assets/Linkedin.png"
 
 const Footer=()=> {
   return (
-    <div className='mx-20 my-30  '>
-        <div className='bg-black rounded-2xl  pl-8 flex'>
+    <div className=''>
+        <div className='bg-black rounded-2xl pl-20 flex'>
             <div className='first-col'>
             <div className='image'>
                 <img src={Vllogo} height ={250} width={250} alt=""  className="pt-10" / >
@@ -80,7 +80,7 @@ const Footer=()=> {
         </div>
             
     </div>
-  )
+    );
 }
 
 export default Footer
