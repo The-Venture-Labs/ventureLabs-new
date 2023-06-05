@@ -8,7 +8,8 @@ export default {
     extend: {
       colors:{
         heroBack:'#000415',
-        btnColor:'#45C07A'
+        btnColor:'#45C07A',
+        bgColor: "#00020E",
       }
     },
   },
