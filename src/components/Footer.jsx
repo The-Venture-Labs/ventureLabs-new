@@ -6,7 +6,7 @@ import Google from "../assets/Google.png";
 import Insta from "../assets/Instagram-f.png"
 import FB from "../assets/Facebook.png"
 import Twitter from "../assets/Twitter.png"
-import Linkedin from "../assets/Linkedin.png"
+import Linkedin from "../assets/Linked.png"
 import { Link } from 'react-router-dom';
 
 
