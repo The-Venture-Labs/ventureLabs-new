@@ -8,7 +8,7 @@ const Marketing = () => {
   return (
     <>
     <MarketingHero />
-        <Portfolio />
+        {/* <Portfolio /> */}
         <FAQ />
     </>
   )

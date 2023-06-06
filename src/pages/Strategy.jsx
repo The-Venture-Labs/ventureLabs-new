@@ -7,7 +7,7 @@ const Strategy = () => {
   return (
     <div>
         <StrategyHero />
-        <Portfolio />
+        {/* <Portfolio /> */}
         <FAQ />
     </div>
   )

@@ -11,7 +11,7 @@ function Home() {
       <OurExpertise />
       <OurService />
       <Team/>
-      <Client />
+      {/* <Client /> */}
     </>
   );
 }

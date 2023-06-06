@@ -4,7 +4,7 @@ import Trophy from '../../assets/AboutUs/trophy.png'
 
 const Achievements = () => {
   return (
-    <div className='mx-10 md:mx-20 mb-20 bg-black rounded-2xl justify-around items-center'>
+    <div className='mx-3 md:mx-20 mb-20 bg-black rounded-2xl justify-around items-center'>
     <div className='flex  sm:gap-x-20 md:gap-x-56 lg:gap-x-96'>
         <div className='bg-gradient-to-b from-yellow-400 to-yellow-50 text-transparent bg-clip-text font-semibold text-3xl my-10 pl-10 '>
             Our Achievements

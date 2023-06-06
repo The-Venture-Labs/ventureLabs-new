@@ -7,7 +7,7 @@ const Tech = () => {
   return (
     <div>
         <TechHero />
-        <Portfolio />
+        {/* <Portfolio /> */}
         <FAQ />
     </div>
   )

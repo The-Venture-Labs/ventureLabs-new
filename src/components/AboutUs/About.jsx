@@ -2,7 +2,7 @@ import React from 'react'
 import Sofa from '../../assets/AboutUs/sofa.png'
 const About = () => {
   return (
-    <div className='mx-10 lg:mx-20 bg-bgColor rounded-2xl justify-around items-center mb-28 md:mb-36'>
+    <div className='mx-3 lg:mx-20 bg-bgColor rounded-2xl justify-around items-center mb-28 md:mb-36'>
       <div className='flex gap-x-8 sm:gap-x-36 md:gap-x-48 lg:gap-x-96'>
         <div className='bg-gradient-to-b from-yellow-400 to-yellow-50 text-transparent bg-clip-text font-semibold text-4xl my-10 pl-10'>
             About Us

@@ -107,7 +107,7 @@ const Team = () => {
 
 
   return (
-    <>
+    <div id='team'>
     <h1 className='text-white font-semibold text-4xl text-center my-20'> 
       The Backbones of Venture Labs
     </h1>
@@ -131,7 +131,7 @@ const Team = () => {
 
     </div>
 
-    </>
+    </div>
   )
 }
 
