@@ -1,17 +1,14 @@
-import React from 'react'
-import Portfolio from '../components/Individual/Portfolio'
-import FAQ from '../components/Individual/Marketing/FAQ'
-import MarketingHero from '../components/Individual/Marketing/MarketingHero'
-
+import React from "react";
+import FAQ from "../components/Individual/Marketing/FAQ";
+import MarketingHero from "../components/Individual/Marketing/MarketingHero";
 
 const Marketing = () => {
   return (
     <>
-    <MarketingHero />
-        {/* <Portfolio /> */}
-        <FAQ />
+      <MarketingHero />
+      <FAQ />
     </>
-  )
-}
+  );
+};
 
-export default Marketing
+export default Marketing;
