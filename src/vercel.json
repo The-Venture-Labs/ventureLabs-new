@@ -1,6 +1,9 @@
+
 {
-    "rewrites":  [
-      {"source": "/(.*)", "destination": "/"},
-      {"source": "/about", "destination": "/AboutUs.jsx"}
-    ]
-  }
+  "routes": [
+    {
+      "src": "/[^.]+",
+      "dest": "/"
+    }
+  ]
+}
