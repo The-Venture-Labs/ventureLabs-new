@@ -2,7 +2,7 @@ import React from "react";
 import ServiceImage from "../assets/service.png";
 import CheckListImage from "../assets/checklist.png";
 import GlassImage from "../assets/glass.png";
-import InstagramImage from "../assets/insta.png";
+import InstagramImage from "../assets/Insta.png";
 import MarketingImage from "../assets/marketing.png";
 import RenameImage from "../assets/rename.png";
 import UiImage from "../assets/ui.png";
